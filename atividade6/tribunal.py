@@ -1,6 +1,6 @@
 from interface import *
 from typing import List
-from common import *
+from atividade2.common import *
 import csv
 
 class Denuncia:

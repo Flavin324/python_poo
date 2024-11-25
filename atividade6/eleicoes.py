@@ -1,6 +1,6 @@
 import pickle
 from typing import List
-from common import *
+from atividade2.common import *
 from Interface_Eleicao import Transparencia
 
 class Urna:

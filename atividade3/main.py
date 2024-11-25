@@ -1,7 +1,7 @@
 import pickle
 import traceback
 
-from common import *
+from atividade2.common import *
 
 FILE_ELEITORES = 'eleitores.pkl'
 

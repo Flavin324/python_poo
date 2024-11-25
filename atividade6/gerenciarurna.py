@@ -1,4 +1,4 @@
-from common import *
+from atividade2.common import *
 from eleicao import Urna
 
 def iniciar_urna(eleitores, candidatos):
